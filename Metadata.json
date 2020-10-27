@@ -1,0 +1,20 @@
+{
+    "Author": "Farouk Friha",
+    "ContentSize": 6372,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/(deprecated)-stop--start-all-azure-classic-vms-in-parallel/master/StopStartVMsInParallel.ps1",
+    "DownloadCount": 1082,
+    "Id": "Stop-Start-all-Azure-14294111",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 421,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-11-30T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This PowerShell Workflow Runbook connects to Azure using an Automation Classic Run As account, retrieves the power status of V1 VMs and turns off / on  in parallel those that are turned on / off. You can attach a recurring schedule to this runbook to run it at a specific time.",
+    "Title": "(Deprecated) Stop / Start all Azure classic VMs in parallel",
+    "UpdatedDate": "2019-5-19T00:00:00",
+    "Url": "https://github.com/azureautomation/(deprecated)-stop--start-all-azure-classic-vms-in-parallel",
+    "UserTags": "Azure Automation, Microsoft Azure Virtual Machines, PowerShell Workflow Runbook"
+}
